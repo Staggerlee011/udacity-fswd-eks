@@ -29,6 +29,3 @@ htmlcov/
 .direnv
 
 .github/**
-
-# local files
-working-file.md
